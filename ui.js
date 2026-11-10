@@ -257,8 +257,9 @@ function renderResult(puzzle) {
 
 function renderNav() {
   if (puzzles.length === 0) return null;
-  if (!meta.daily && puzzles.length <= 1) return null;
-  const heading = meta.daily ? '練習' : 'ほかの句';
+  if (meta.daily) return null;
+  if (puzzles.length <= 1) return null;
+  const heading = 'ほかの句';
   const nav = el('nav', { class: 'nav' }, el('h2', {}, heading));
   const list = el('div', { class: 'nav-list' });
   puzzles.forEach((puzzle, index) => {
