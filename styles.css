@@ -1,0 +1,278 @@
+:root {
+  color-scheme: light;
+  --ink: #1c1914;
+  --paper: #f4efe4;
+  --paper-edge: #e3d9c6;
+  --muted: #5c564c;
+  --mark: #8a2f2f;
+  --btn: #fffdf8;
+  --btn-ink: #1c1914;
+  --focus: #2b5d8c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  min-height: 100dvh;
+  font-family: system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+#app {
+  width: min(100%, 28rem);
+  min-height: 100dvh;
+  margin: 0 auto;
+  padding: 1rem 1.1rem calc(1.5rem + env(safe-area-inset-bottom));
+  display: flex;
+  flex-direction: column;
+}
+
+.sheet {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+.fail {
+  margin: 2.5rem 0.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.daily-label,
+.streak {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.which {
+  margin: 0.9rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.phrase {
+  margin: 1.4rem 0 1.1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.06em;
+  font-size: clamp(1.7rem, 8vw, 2.2rem);
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.phrase-char.hole {
+  display: inline-flex;
+  min-width: 1.15em;
+  min-height: 1.2em;
+  justify-content: center;
+  border-bottom: 0.08em solid var(--ink);
+  line-height: 1.2;
+}
+
+.phrase-char.hole.filled {
+  border-bottom-color: transparent;
+}
+
+.history {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.history li {
+  display: flex;
+  gap: 0.45rem;
+  align-items: baseline;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.mark {
+  color: var(--mark);
+  font-weight: 700;
+}
+
+.hints {
+  margin: 0.9rem 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.hint {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.candidates {
+  flex: 0 0 auto;
+  padding: 1.1rem 0 0.35rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  background: var(--paper);
+}
+
+.candidates button {
+  width: 4rem;
+  height: 4rem;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0;
+  border: 1px solid var(--paper-edge);
+  border-radius: 0.7rem;
+  background: var(--btn);
+  color: var(--btn-ink);
+  font: inherit;
+  font-size: 1.55rem;
+  touch-action: manipulation;
+}
+
+.candidates button:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.candidates button:disabled {
+  opacity: 0.55;
+}
+
+.result {
+  margin-top: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.meaning,
+.other-line,
+.calendar-line {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.share-label {
+  margin: 0.2rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.share {
+  margin: 0;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid var(--paper-edge);
+  border-radius: 0.55rem;
+  background: #fffdf8;
+  font: inherit;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  user-select: text;
+}
+
+.copy-row {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.copy-row button,
+.nav button {
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid var(--paper-edge);
+  border-radius: 0.55rem;
+  background: var(--btn);
+  color: var(--btn-ink);
+  font: inherit;
+  font-size: 0.95rem;
+  touch-action: manipulation;
+}
+
+.copy-row button:focus-visible,
+.nav button:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.copy-status {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.nav {
+  flex: 0 0 auto;
+  margin-top: 0;
+  padding-top: 0.45rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  max-height: min(38vh, 14.5rem);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav h2 {
+  margin: 0;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.nav-list button {
+  width: 100%;
+  text-align: left;
+  font-size: 0.95rem;
+}
+
+.nav-phrase {
+  display: inline;
+}
+
+.nav-hole {
+  display: inline-block;
+  min-width: 1em;
+  border-bottom: 0.1em solid var(--ink);
+  vertical-align: baseline;
+  line-height: 1.2;
+}

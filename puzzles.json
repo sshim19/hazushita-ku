@@ -1,0 +1,395 @@
+[
+  {
+    "id": "hana-yori-dango",
+    "ship": true,
+    "phrase": [null, "よ", "り", "団", "子"],
+    "answer": "花",
+    "candidates": ["花", "化", "英", "荷"],
+    "maxWrong": 2,
+    "reading": "はなよりだんご",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "見た目の風情より、腹に残る実利を取る、という言い方である。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E8%8A%B1%E3%82%88%E3%82%8A%E5%9B%A3%E5%AD%90-603292",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、読みをはなよりだんごとしていることを確認した。意味の向きは風流より実利である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E8%8A%B1%E3%82%88%E3%82%8A%E5%9B%A3%E5%AD%90",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "花は草冠の下に化があり、化は人偏の字形が近い。英と荷も草冠で、花と外形が紛らわしい。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。外れの華は華より団子という同訓の異表記になるため英に替えた。残りの外れ字は同訓でも異表記でもない。"
+    }
+  },
+  {
+    "id": "neko-ni-koban",
+    "ship": true,
+    "phrase": [null, "に", "小", "判"],
+    "answer": "猫",
+    "candidates": ["猫", "描", "苗", "錨"],
+    "maxWrong": 2,
+    "reading": "ねこにこばん",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "値打ちが分からない相手に宝物を渡しても、喜びにも役にもならない、というたとえである。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E7%8C%AB%E3%81%AB%E5%B0%8F%E5%88%A4-594784",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、読みをねこにこばんとしていることを確認した。意味の向きは価値が分からない者には宝も無意味、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E7%8C%AB%E3%81%AB%E5%B0%8F%E5%88%A4",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "猫・描・苗・錨は苗を共有し、偏が犭・扌・なし・金で異なる。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。描・苗・錨は同訓でも異表記でもない。"
+    }
+  },
+  {
+    "id": "ishi-no-ue",
+    "ship": true,
+    "phrase": ["石", "の", "上", "に", "も", null, "年"],
+    "answer": "三",
+    "candidates": ["三", "二", "工", "士"],
+    "maxWrong": 2,
+    "reading": "いしのうえにもさんねん",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "冷たい場所でも長く座れば温まるように、辛抱が続けば報われる、という励ましである。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E7%9F%B3%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%82%E4%B8%89%E5%B9%B4-431901",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、読みをいしのうえにもさんねんとしていることを確認した。意味の向きは辛抱すれば報われる、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E7%9F%B3%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%82%E4%B8%89%E5%B9%B4",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "三・二は横画の本数が近く、工・士は横画を重ねて短い縦画を足した形である。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。参・弐などの数字の異表記は入れていない。工年・士年は成句の見出しにならない。"
+    }
+  },
+  {
+    "id": "deru-kui",
+    "ship": true,
+    "phrase": ["出", "る", null, "は", "打", "た", "れ", "る"],
+    "answer": "杭",
+    "candidates": ["杭", "抗", "坑", "航"],
+    "maxWrong": 2,
+    "reading": "でるくいはうたれる",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "目立つ働きや主張は、そろえようとする周囲から押さえられやすい、という戒めである。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E5%87%BA%E3%82%8B%E6%9D%AD%E3%81%AF%E6%89%93%E3%81%9F%E3%82%8C%E3%82%8B-577183",
+        "checked": "コトバンクを開き、デジタル大辞泉がこの句を立項し、読みをでるくいはうたれるとしていることを確認した。意味の向きは目立つ者がたたかれやすい、で、才能の抜きん出と出過ぎた振る舞いの両注は同じ向きである。本文は写していない。"
+      },
+      {
+        "url": "https://ja.wiktionary.org/wiki/%E5%87%BA%E3%82%8B%E6%9D%AD%E3%81%AF%E6%89%93%E3%81%9F%E3%82%8C%E3%82%8B",
+        "checked": "ウィクショナリー日本語版を開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E5%87%BA%E3%82%8B%E6%9D%AD%E3%81%AF%E6%89%93%E3%81%9F%E3%82%8C%E3%82%8B",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。杭と釘の表記差は文化庁調査の使用率として頁に出るが、意味の世代割れではない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "杭・抗・坑・航は亢を音符とし、偏が木・手・土・舟で異なる。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。同訓の異表記である釘は候補に入れていない。抗・坑・航は成句の見出しにならない。"
+    }
+  },
+  {
+    "id": "todai-moto-kurashi",
+    "ship": true,
+    "phrase": ["灯", "台", null, "暗", "し"],
+    "answer": "下",
+    "candidates": ["下", "上", "卞", "干"],
+    "maxWrong": 2,
+    "reading": "とうだいもとくらし",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "室内の燭台のすぐ足元はかえって陰になるように、身近な事情は分かりにくい、というたとえである。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E7%81%AF%E5%8F%B0%E4%B8%8B%E6%9A%97%E3%81%97-580848",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、下をもとと読ませていることを確認した。意味の向きは身近な事情がかえって分かりにくい、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E7%81%AF%E5%8F%B0%E4%B8%8B%E6%9A%97%E3%81%97",
+        "checked": "Weblioを開き、読みがとうだいもとくらしであることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "下と上は縦画の突き出し方向が逆で、卞は下に点を足した形、干は横画と縦画の組み合わせが近い。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。読みのもとをヒントにして下を選ばせる。元は読みであり異表記の字ではないので候補に入れていない。上・卞・干は同訓でも異表記でもない。"
+    }
+  },
+  {
+    "id": "mikka-bozu",
+    "ship": true,
+    "phrase": ["三", "日", null, "主"],
+    "answer": "坊",
+    "candidates": ["坊", "妨", "訪", "防"],
+    "maxWrong": 2,
+    "reading": "みっかぼうず",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "始めたばかりの熱がすぐ冷める人を、からかって言う語である。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E4%B8%89%E6%97%A5%E5%9D%8A%E4%B8%BB-638620",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの語を立項し、読みをみっかぼうずとしていることを確認した。意味の向きは飽きやすく長続きしない、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E4%B8%89%E6%97%A5%E5%9D%8A%E4%B8%BB",
+        "checked": "Weblioを開き、同じ語と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "坊・妨・訪・防は方を音符とし、偏が土・女・言・阜で異なる。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。妨・訪・防は同訓でも異表記でもない。"
+    }
+  },
+  {
+    "id": "fukusui-bon",
+    "ship": true,
+    "phrase": ["覆", "水", "盆", "に", null, "ら", "ず"],
+    "answer": "返",
+    "candidates": ["返", "辺", "反", "坂"],
+    "maxWrong": 2,
+    "reading": "ふくすいぼんにかえらず",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "こぼした水は器に戻らないように、一度してしまったことはやり直せない、というたとえである。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E8%A6%86%E6%B0%B4%E7%9B%86%E3%81%AB%E8%BF%94%E3%82%89%E3%81%9A-617363",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、読みをふくすいぼんにかえらずとしていることを確認した。夫婦の復縁と、取り返しがつかない、は同じ向きの転義であり、世代で逆向きには割れていない。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E8%A6%86%E6%B0%B4%E7%9B%86%E3%81%AB%E8%BF%94%E3%82%89%E3%81%9A",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "返・辺・反・坂は反を共有し、辶の有無と土偏の差が近い。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。転義は同じ向きなので which は置いていない。同訓の異表記である帰は候補に入れていない。辺・反・坂は成句の見出しにならない。"
+    }
+  },
+  {
+    "id": "nikai-megusuri",
+    "ship": true,
+    "phrase": ["二", "階", "か", "ら", "目", null],
+    "answer": "薬",
+    "candidates": ["薬", "楽", "葉", "菓"],
+    "maxWrong": 2,
+    "reading": "にかいからめぐすり",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      }
+    ],
+    "meaning": "届かない場所から点すように、遠回しすぎて効き目がおぼつかない、というたとえである。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E4%BA%8C%E9%9A%8E%E3%81%8B%E3%82%89%E7%9B%AE%E8%96%AC-591073",
+        "checked": "コトバンクを開き、デジタル大辞泉がこの句を立項し、読みをにかいからめぐすりとしていることを確認した。意味の向きはもどかしい、遠回しすぎて効かない、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E4%BA%8C%E9%9A%8E%E3%81%8B%E3%82%89%E7%9B%AE%E8%96%AC",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "易",
+    "lookalikeNote": "薬は草冠の下に楽があり、楽と外形が近い。葉・菓も草冠で下部の作りが紛らわしい。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。旧字の藥は異表記なので入れていない。楽・葉・菓は同訓でも異表記でもない。"
+    }
+  },
+  {
+    "id": "isogaba-maware",
+    "ship": true,
+    "phrase": ["急", "が", "ば", null, "れ"],
+    "answer": "回",
+    "candidates": ["回", "四", "囚", "因", "困"],
+    "maxWrong": 3,
+    "reading": "いそがばまわれ",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      },
+      {
+        "afterWrong": 2,
+        "kind": "meaning",
+        "text": ""
+      }
+    ],
+    "meaning": "近道で事故るより、遠い道でも確実なほうが一刻も早く着く、という判断である。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E6%80%A5%E3%81%8C%E3%81%B0%E5%9B%9E%E3%82%8C-432744",
+        "checked": "コトバンクを開き、デジタル大辞泉がこの句を立項し、読みをいそがばまわれとしていることを確認した。意味の向きは遠回りでも確実な道のほうが早い、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E6%80%A5%E3%81%8C%E3%81%B0%E5%9B%9E%E3%82%8C",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "中",
+    "lookalikeNote": "回・四・囚・因・困は口の囲いの中に短い部品を置く字形である。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。同訓の異表記である廻は候補に入れていない。四・囚・因・困は成句の見出しにならない。"
+    }
+  },
+  {
+    "id": "atama-kakushite",
+    "ship": true,
+    "phrase": [null, "隠", "し", "て", "尻", "隠", "さ", "ず"],
+    "answer": "頭",
+    "candidates": ["頭", "顔", "願", "領", "額"],
+    "maxWrong": 3,
+    "reading": "あたまかくしてしりかくさず",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      },
+      {
+        "afterWrong": 2,
+        "kind": "meaning",
+        "text": ""
+      }
+    ],
+    "meaning": "一部だけ隠して全部隠したつもりでいる抜けを、からかう言葉である。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E9%A0%AD%E9%9A%A0%E3%81%97%E3%81%A6%E5%B0%BB%E9%9A%A0%E3%81%95%E3%81%9A-425268",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、読みをあたまかくしてしりかくさずとしていることを確認した。意味の向きは一部しか隠せていないのに全部隠したつもり、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E9%A0%AD%E9%9A%A0%E3%81%97%E3%81%A6%E5%B0%BB%E9%9A%A0%E3%81%95%E3%81%9A",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "中",
+    "lookalikeNote": "頭・顔・願・領・額は頁を部首とし、左側の作りだけが異なる。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。隠が二度出る句なので、穴は頭に限った。顔・願・領・額は同訓でも異表記でもない。"
+    }
+  },
+  {
+    "id": "monzen-kozo",
+    "ship": true,
+    "phrase": [null, "前", "の", "小", "僧", "習", "わ", "ぬ", "経", "を", "読", "む"],
+    "answer": "門",
+    "candidates": ["門", "問", "間", "聞", "開", "閉"],
+    "maxWrong": 3,
+    "reading": "もんぜんのこぞうならわぬきょうをよむ",
+    "hints": [
+      {
+        "afterWrong": 1,
+        "kind": "reading",
+        "text": ""
+      },
+      {
+        "afterWrong": 2,
+        "kind": "meaning",
+        "text": ""
+      }
+    ],
+    "meaning": "そばで何度も見聞きしていると、教えられなくてもその型が身につく、という観察である。",
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E9%96%80%E5%89%8D%E3%81%AE%E5%B0%8F%E5%83%A7%E7%BF%92%E3%82%8F%E3%81%AC%E7%B5%8C%E3%82%92%E8%AA%AD%E3%82%80-647246",
+        "checked": "コトバンクを開き、デジタル大辞泉と精選版日本国語大辞典がこの句を立項し、読みをもんぜんのこぞうならわぬきょうをよむとしていることを確認した。意味の向きは見聞きする環境が人を作る、である。本文は写していない。"
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E9%96%80%E5%89%8D%E3%81%AE%E5%B0%8F%E5%83%A7%E7%BF%92%E3%82%8F%E3%81%AC%E7%B5%8C%E3%82%92%E8%AA%AD%E3%82%80",
+        "checked": "Weblioを開き、同じ句と読みがあることを確認した。見出しの解説文は意味欄に写していない。"
+      }
+    ],
+    "askedMeaning": null,
+    "difficulty": "中",
+    "lookalikeNote": "門・問・間・聞・開・閉は門構えを共有し、内側の部品だけが異なる。",
+    "verification": {
+      "read": true,
+      "note": "全文を読んだ。意味は出典の本文の写しではない。候補の字形は lookalikeNote のとおり人手で見た。問・間・聞・開・閉は同訓でも異表記でもなく、成句の見出しにならない。"
+    }
+  }
+]
