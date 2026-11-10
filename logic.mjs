@@ -189,7 +189,7 @@ export function visibleHints(puzzle, wrongCount) {
  * @returns {string}
  */
 export function buildShareText(input) {
-  const processLine = input.success ? `${input.moves}手` : '当たらず';
+  const processLine = input.success ? `${input.moves}回で正解` : 'はずれ';
   const lines = [input.title, input.dateKey, processLine];
   const phrases = input.falsePhrases ?? [];
   for (let i = 0; i < phrases.length; i += 1) {
@@ -201,7 +201,7 @@ export function buildShareText(input) {
     input.calendar &&
     !shouldOmitLine(input.calendar, input.answer, input.correctPhrase)
   ) {
-    lines.push(`暦 ${input.calendar}`);
+    lines.push(`きょう ${input.calendar}`);
   }
   return `${lines.join('\n')}\n`;
 }

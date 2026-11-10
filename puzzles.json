@@ -8,7 +8,7 @@
     "maxWrong": 2,
     "reading": "はなよりだんご",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "見た目の風情より、腹に残る実利を取る、という言い方である。",
+    "meaning": "見た目の風情より、腹に残る実利を取る、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E8%8A%B1%E3%82%88%E3%82%8A%E5%9B%A3%E5%AD%90-603292",
@@ -25,21 +25,21 @@
     "distractors": [
       {
         "char": "鼻",
-        "fakeMeaning": "鼻より先に団子を取れ、という食い意地の優先である。",
+        "fakeMeaning": "鼻より先に団子を取れ、という食い意地のたとえ。",
         "confusable": "sound",
         "confusableNote": "鼻と花は、この句ではどちらも「はな」と読める。",
         "variantNote": "コトバンクの見出しは花である。鼻より団子は「とも」ではなく、別の見出しでもない。"
       },
       {
         "char": "茶",
-        "fakeMeaning": "茶を後回しにして団子を先に口へ運べ、という席の優先順位である。",
+        "fakeMeaning": "茶を後回しにして団子を先に口へ運べ、というたとえ。",
         "confusable": "shape",
         "confusableNote": "茶と花はどちらも草冠で、下の作りが違う。",
         "variantNote": "茶より団子は花より団子の「とも」ではなく、独立の見出しにもなっていない。"
       },
       {
         "char": "芸",
-        "fakeMeaning": "芸を磨くより団子を胃に入れよ、という実利の優先である。",
+        "fakeMeaning": "芸を磨くより団子を胃に入れよ、という実利のたとえ。",
         "confusable": "shape",
         "confusableNote": "芸と花は草冠を共有し、下の作りが違う。",
         "variantNote": "芸より団子は検索した範囲で独立の見出しではなく、大辞泉の「とも」でもない。"
@@ -60,7 +60,7 @@
     "maxWrong": 2,
     "reading": "でるくいはうたれる",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "目立つ働きや主張は、そろえようとする周囲から押さえられやすい、という戒めである。",
+    "meaning": "目立つ働きや主張は、そろえようとする周囲から押さえられやすい、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E5%87%BA%E3%82%8B%E6%9D%AD%E3%81%AF%E6%89%93%E3%81%9F%E3%82%8C%E3%82%8B-577183",
@@ -77,21 +77,21 @@
     "distractors": [
       {
         "char": "抗",
-        "fakeMeaning": "表へ出した反対意見は、中身を見られる前に叩かれる、という組織の観測である。",
+        "fakeMeaning": "表へ出した反対意見は、中身を見られる前に叩かれる、というたとえ。",
         "confusable": "shape",
         "confusableNote": "抗と杭は亢を共有し、偏が手と木で違う。",
         "variantNote": "大辞泉が「とも」とするのは釘である。抗ではない。出る抗は打たれるは抵抗が潰される別の文である。"
       },
       {
         "char": "悔",
-        "fakeMeaning": "口に出した後悔は慰められず、もう一度叩かれる、という戒めである。",
+        "fakeMeaning": "口に出した後悔は慰められず、もう一度叩かれる、というたとえ。",
         "confusable": "sound",
         "confusableNote": "悔と杭は、この句ではどちらも「くい」と読める。",
         "variantNote": "出る悔は打たれるは見出しになっておらず、大辞泉の「とも」にも無い。"
       },
       {
         "char": "坑",
-        "fakeMeaning": "地面に開けた縦穴は、通行の邪魔だとすぐに埋め戻される、という現場の言い伝えである。",
+        "fakeMeaning": "地面に開けた縦穴は、通行の邪魔だとすぐに埋め戻される、というたとえ。",
         "confusable": "shape",
         "confusableNote": "坑と杭も亢を共有し、偏が土と木で違う。",
         "variantNote": "出る坑は打たれるは見出しになっておらず、釘の「とも」とも別である。"
@@ -112,7 +112,7 @@
     "maxWrong": 2,
     "reading": "とうだいもとくらし",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "室内の燭台のすぐそばはかえって陰になるように、身近な事情は分かりにくい、というたとえである。",
+    "meaning": "室内の燭台のすぐそばはかえって陰になるように、身近な事情は分かりにくい、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E7%81%AF%E5%8F%B0%E4%B8%8B%E6%9A%97%E3%81%97-580848",
@@ -133,21 +133,21 @@
     "distractors": [
       {
         "char": "上",
-        "fakeMeaning": "照明の真上こそ陰になり、頭のほうを疑えという読み替えである。",
+        "fakeMeaning": "照明の真上こそ陰になり、頭のほうを疑え、というたとえ。",
         "confusable": "shape",
         "confusableNote": "上と下は、縦画の向きが逆なだけの短い字で、並ぶと取り違える。",
         "variantNote": "灯台上暗しは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "元",
-        "fakeMeaning": "明かりの根源そのものが暗い、という、出どころを疑えという読みである。",
+        "fakeMeaning": "明かりの根源そのものが暗い、出どころを疑え、というたとえ。",
         "confusable": "sound",
         "confusableNote": "元と下は、この句の「もと」を共有する。音で覚えると元を書く。",
         "variantNote": "見出しは下である。灯台元暗しは誤記だと名指しされており、「とも」ではないので外れ字にしてよい。"
       },
       {
         "char": "基",
-        "fakeMeaning": "灯を支える土台そのものが、いちばん暗い、という据え付けの戒めである。",
+        "fakeMeaning": "灯を支える土台そのものが、いちばん暗い、というたとえ。",
         "confusable": "sound",
         "confusableNote": "基と下は、この句の「もと」を共有する。基の訓はもと、もといである。",
         "variantNote": "灯台基暗しは見出しになっておらず、大辞泉が「とも」とする字でもない。"
@@ -168,7 +168,7 @@
     "maxWrong": 2,
     "reading": "のうあるたかはつめをかくす",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "腕に覚えがある者ほど、先に切れ味を見せない、という観察である。",
+    "meaning": "腕に覚えがある者ほど、先に切れ味を見せない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E8%83%BD%E3%81%82%E3%82%8B%E9%B7%B9%E3%81%AF%E7%88%AA%E3%82%92%E9%9A%A0%E3%81%99",
@@ -185,21 +185,21 @@
     "distractors": [
       {
         "char": "脳",
-        "fakeMeaning": "頭の中に脳みそがある鷹ほど、爪を表に出さない、という内臓の観察である。",
+        "fakeMeaning": "頭の中に脳みそがある鷹ほど、爪を表に出さない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "脳と能は、この句ではどちらも「のう」と読める。",
         "variantNote": "大辞泉は脳ある鷹と書くのは誤りだと名指しする。見出しの「とも」ではないので外れ字にしてよい。"
       },
       {
         "char": "態",
-        "fakeMeaning": "見かけの態が整った鷹ほど、爪をしまって見せない、という身のこなしの戒めである。",
+        "fakeMeaning": "見かけの態が整った鷹ほど、爪をしまって見せない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "態と能は、態の上が能で、下に心が付くだけである。",
         "variantNote": "態ある鷹は爪を隠すは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "嚢",
-        "fakeMeaning": "嚢ある鷹ほど、爪を出して威張らない、という守りの一句である。",
+        "fakeMeaning": "嚢ある鷹ほど、爪を出して威張らない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "嚢と能は、この句ではどちらも「のう」と読める。",
         "variantNote": "嚢ある鷹は爪を隠すは見出しになっておらず、脳の誤記とも別の字である。"
@@ -220,7 +220,7 @@
     "maxWrong": 2,
     "reading": "もんぜんのこぞうならわぬきょうをよむ",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "そばで何度も見聞きしていると、教えられなくてもその型が身につく、という観察である。",
+    "meaning": "そばで何度も見聞きしていると、教えられなくてもその型が身につく、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E9%96%80%E5%89%8D%E3%81%AE%E5%B0%8F%E5%83%A7%E7%BF%92%E3%82%8F%E3%81%AC%E7%B5%8C%E3%82%92%E8%AA%AD%E3%82%80-647246",
@@ -237,21 +237,21 @@
     "distractors": [
       {
         "char": "紋",
-        "fakeMeaning": "家紋の前で育つ子どもは、習わなくても経を口にする、という家の影響である。",
+        "fakeMeaning": "家紋の前で育つ子どもは、習わなくても経を口にする、というたとえ。",
         "confusable": "sound",
         "confusableNote": "紋と門は、この句ではどちらも「もん」と読める。",
         "variantNote": "紋前の小僧は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "閣",
-        "fakeMeaning": "楼閣の前にいる子どもは、習わなくても経を口にする、という住まいの影響である。",
+        "fakeMeaning": "楼閣の前にいる子どもは、習わなくても経を口にする、というたとえ。",
         "confusable": "shape",
         "confusableNote": "閣と門は門構えを共有し、内側の作りが違う。",
         "variantNote": "閣前の小僧は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "関",
-        "fakeMeaning": "関所の前にいる子どもは、習わなくても経を口にする、という場の影響である。",
+        "fakeMeaning": "関所の前にいる子どもは、習わなくても経を口にする、というたとえ。",
         "confusable": "shape",
         "confusableNote": "関と門は門構えを共有し、内側の作りが違う。",
         "variantNote": "関前の小僧は見出しになっておらず、大辞泉の「とも」でもない。"
@@ -272,7 +272,7 @@
     "maxWrong": 2,
     "reading": "ひゃくぶんはいっけんにしかず",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "人の口から何度も伝わる話より、自分の目で一度見るほうが確かだ、という判断である。",
+    "meaning": "人の口から何度も伝わる話より、自分の目で一度見るほうが確か、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E7%99%BE%E8%81%9E%E3%81%AF%E4%B8%80%E8%A6%8B%E3%81%AB%E5%A6%82%E3%81%8B%E3%81%9A",
@@ -289,21 +289,21 @@
     "distractors": [
       {
         "char": "文",
-        "fakeMeaning": "百枚の文章を読むより、一度実際に見るほうが確かだ、という判断である。",
+        "fakeMeaning": "百枚の文章を読むより、一度実際に見るほうが確か、というたとえ。",
         "confusable": "sound",
         "confusableNote": "文と聞は、この句ではどちらも「ぶん」と読める。",
         "variantNote": "百文は一見に如かずは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "問",
-        "fakeMeaning": "百の問いを重ねるより、一度実際に見るほうが確かだ、という判断である。",
+        "fakeMeaning": "百の問いを重ねるより、一度実際に見るほうが確か、というたとえ。",
         "confusable": "shape",
         "confusableNote": "問と聞は門構えを共有し、内側が口と耳で違う。",
         "variantNote": "百問は一見に如かずは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "間",
-        "fakeMeaning": "百間を歩いて測るより、一度実際に見るほうが確かだ、という判断である。",
+        "fakeMeaning": "百間を歩いて測るより、一度実際に見るほうが確か、というたとえ。",
         "confusable": "shape",
         "confusableNote": "間と聞は門構えを共有し、内側が日と耳で違う。",
         "variantNote": "百間は一見に如かずは見出しになっておらず、大辞泉の「とも」でもない。"
@@ -324,7 +324,7 @@
     "maxWrong": 2,
     "reading": "しめんそか",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "敵に囲まれて孤立し、助けが無い、というたとえである。",
+    "meaning": "敵に囲まれて孤立し、助けがない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E5%9B%9B%E9%9D%A2%E6%A5%9A%E6%AD%8C",
@@ -341,21 +341,21 @@
     "distractors": [
       {
         "char": "祖",
-        "fakeMeaning": "四面祖歌は、祖の声に囲まれて退けない、というたとえである。",
+        "fakeMeaning": "四面祖歌は、祖の声に囲まれて退けない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "祖と楚は、この句ではどちらも「そ」と読める。",
         "variantNote": "四面祖歌は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "訴",
-        "fakeMeaning": "四面訴歌は、訴の歌ばかりで味方が消える、という法廷のたとえである。",
+        "fakeMeaning": "四面訴歌は、訴の歌ばかりで味方が消える、というたとえ。",
         "confusable": "sound",
         "confusableNote": "訴と楚は、この句ではどちらも「そ」と読める。",
         "variantNote": "四面訴歌は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "租",
-        "fakeMeaning": "四面租歌は、租の声に囲まれて逃げ場が無い、というたとえである。",
+        "fakeMeaning": "四面租歌は、租の声に囲まれて逃げ場がない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "租と楚は、この句ではどちらも「そ」と読める。",
         "variantNote": "四面租歌は見出しになっておらず、大辞泉の「とも」でもない。"
@@ -376,7 +376,7 @@
     "maxWrong": 2,
     "reading": "つるのひとこえ",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "多くの議論を一息で鎮める、権威ある一言のことである。",
+    "meaning": "多くの議論を一息で鎮める、権威ある一言、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E9%B6%B4%E3%81%AE%E4%B8%80%E5%A3%B0",
@@ -393,21 +393,21 @@
     "distractors": [
       {
         "char": "弦",
-        "fakeMeaning": "一本の弦が鳴っただけで場が静まる、という楽器の一言である。",
+        "fakeMeaning": "一本の弦が鳴っただけで場が静まる、というたとえ。",
         "confusable": "sound",
         "confusableNote": "弦と鶴は、この句ではどちらも「つる」と読める。",
         "variantNote": "弦の一声は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "鶏",
-        "fakeMeaning": "鶏が一度鳴けば議論が終わる、という夜明けの一言である。",
+        "fakeMeaning": "鶏が一度鳴けば議論が終わる、というたとえ。",
         "confusable": "shape",
         "confusableNote": "鶏と鶴は鳥偏で、長い首と冠の字形が近い。",
         "variantNote": "鶏の一声は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "鷺",
-        "fakeMeaning": "鷺が一度鳴けば水辺が静まる、という湿地の一言である。",
+        "fakeMeaning": "鷺が一度鳴けば水辺が静まる、というたとえ。",
         "confusable": "shape",
         "confusableNote": "鷺と鶴は鳥偏で、長い足の水鳥として字形が近い。",
         "variantNote": "鷺の一声は見出しになっておらず、大辞泉の「とも」でもない。"
@@ -428,7 +428,7 @@
     "maxWrong": 2,
     "reading": "おいてはこにしたがえ",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "年をとってからは、若い世代の判断に任せた方がよい、という助言である。",
+    "meaning": "年をとってからは、若い世代の判断に任せるほうがよい、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E8%80%81%E3%81%84%E3%81%A6%E3%81%AF%E5%AD%90%E3%81%AB%E5%BE%93%E3%81%88",
@@ -445,21 +445,21 @@
     "distractors": [
       {
         "char": "古",
-        "fakeMeaning": "年をとったら古い慣わしに従うのがよい、という保守の助言である。",
+        "fakeMeaning": "年をとったら古い慣わしに従うのがよい、というたとえ。",
         "confusable": "sound",
         "confusableNote": "古と子は、この句ではどちらも「こ」と読める。",
         "variantNote": "老いては古に従えは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "孫",
-        "fakeMeaning": "年をとったら孫の言いつけに従うのがよい、という世代の逆転である。",
+        "fakeMeaning": "年をとったら孫の言いつけに従うのがよい、というたとえ。",
         "confusable": "shape",
         "confusableNote": "孫と子は、孫の右側が子で、左側の系が付く。",
         "variantNote": "老いては孫に従えは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "仔",
-        "fakeMeaning": "年をとったら仔の動きに従うのがよい、という若いつがいの助言である。",
+        "fakeMeaning": "年をとったら仔の動きに従うのがよい、という若い獣のたとえ。",
         "confusable": "shape",
         "confusableNote": "仔と子は、仔が人偏を持つだけで、右側が子である。",
         "variantNote": "老いては仔に従えは見出しになっておらず、大辞泉の「とも」でもない。"
@@ -480,7 +480,7 @@
     "maxWrong": 2,
     "reading": "たいがんのかじ",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "川の向こうの災いなら、こちらは痛くも痒くもない、というたとえである。",
+    "meaning": "川の向こうの災いなら、こちらは痛くも痒くもない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E5%AF%BE%E5%B2%B8%E3%81%AE%E7%81%AB%E4%BA%8B",
@@ -497,21 +497,21 @@
     "distractors": [
       {
         "char": "岩",
-        "fakeMeaning": "向かいの岩場の火災なら、こちらは燃え移らない、という他人事である。",
+        "fakeMeaning": "向かいの岩場の火災なら、こちらは燃え移らない、というたとえ。",
         "confusable": "both",
         "confusableNote": "岩と岸は山と石の地形の字で近く、この句ではどちらも「がん」と読める。",
         "variantNote": "対岩の火事は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "崖",
-        "fakeMeaning": "向かいの崖の火災なら、こちらは燃え移らない、という他人事である。",
+        "fakeMeaning": "向かいの崖の火災なら、こちらは燃え移らない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "崖と岸は山偏の地形の字で、下の作りが違う。",
         "variantNote": "対崖の火事は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "崎",
-        "fakeMeaning": "向かいの崎の火災なら、こちらは燃え移らない、という岬の他人事である。",
+        "fakeMeaning": "向かいの崎の火災なら、こちらは燃え移らない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "崎と岸は山偏の地形の字で、下の作りが違う。",
         "variantNote": "対崎の火事は見出しになっておらず、大辞泉の「とも」でもない。"
@@ -532,7 +532,7 @@
     "maxWrong": 2,
     "reading": "かめのこうよりとしのこう",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "長い年月を経た経験は、甲羅よりも貴い、という言い方である。",
+    "meaning": "長い年月を経た経験は、甲羅よりも貴い、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E4%BA%80%E3%81%AE%E7%94%B2%E3%82%88%E3%82%8A%E5%B9%B4%E3%81%AE%E5%8A%AB",
@@ -549,21 +549,21 @@
     "distractors": [
       {
         "char": "巧",
-        "fakeMeaning": "甲羅より、年を経た巧のほうが貴い、という職人の言い方である。",
+        "fakeMeaning": "甲羅より、年を経た巧のほうが貴い、というたとえ。",
         "confusable": "sound",
         "confusableNote": "巧と劫は、この句ではどちらも「こう」と読める。",
         "variantNote": "年の巧は見出しになっておらず、大辞泉が別名とするのは功であって巧ではない。"
       },
       {
         "char": "幸",
-        "fakeMeaning": "甲羅より、年を経た幸のほうが貴い、という寿命の言い方である。",
+        "fakeMeaning": "甲羅より、年を経た幸のほうが貴い、というたとえ。",
         "confusable": "sound",
         "confusableNote": "幸と劫は、この句ではどちらも「こう」と読める。",
         "variantNote": "年の幸は見出しになっておらず、功の別名とも別の字である。"
       },
       {
         "char": "恒",
-        "fakeMeaning": "甲羅より、年を経た恒のほうが貴い、という続きの言い方である。",
+        "fakeMeaning": "甲羅より、年を経た恒のほうが貴い、というたとえ。",
         "confusable": "sound",
         "confusableNote": "恒と劫は、この句ではどちらも「こう」と読める。",
         "variantNote": "年の恒は見出しになっておらず、功の別名とも別の字である。"
@@ -584,7 +584,7 @@
     "maxWrong": 2,
     "reading": "しかをおうりょうしはやまをみず",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "獲物を追うことに熱中すると、まわりの地形すら見えなくなる、という戒めである。",
+    "meaning": "獲物を追うことに熱中すると、まわりの地形すら見えなくなる、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E9%B9%BF%E3%82%92%E9%80%90%E3%81%86%E8%80%85%E3%81%AF%E5%B1%B1%E3%82%92%E8%A6%8B%E3%81%9A",
@@ -601,21 +601,21 @@
     "distractors": [
       {
         "char": "士",
-        "fakeMeaning": "猟の士は獲物に熱中し、山全体を見ない、という戒めである。",
+        "fakeMeaning": "猟の士は獲物に熱中し、山全体を見ない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "士と師は、この句ではどちらも「し」と読める。",
         "variantNote": "猟士は見出しになっておらず、猟師の「とも」でもない。"
       },
       {
         "char": "司",
-        "fakeMeaning": "猟の司は獲物に熱中し、山全体を見ない、という役の戒めである。",
+        "fakeMeaning": "猟の司は獲物に熱中し、山全体を見ない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "司と師は、この句ではどちらも「し」と読める。",
         "variantNote": "猟司は見出しになっておらず、猟師の「とも」でもない。"
       },
       {
         "char": "帥",
-        "fakeMeaning": "猟の帥は獲物に熱中し、山全体を見ない、という軍の戒めである。",
+        "fakeMeaning": "猟の帥は獲物に熱中し、山全体を見ない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "帥と師は、旁の巾と作りが近く、短い字で取り違える。",
         "variantNote": "猟帥は見出しになっておらず、猟師の「とも」でもない。"
@@ -636,7 +636,7 @@
     "maxWrong": 2,
     "reading": "がりょうてんせい",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "最後の大事な仕上げが、全体を生きたものにする、という故事である。",
+    "meaning": "最後の大事な仕上げが、全体に命を通す、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B",
@@ -653,21 +653,21 @@
     "distractors": [
       {
         "char": "晴",
-        "fakeMeaning": "絵の竜に晴れを点じて空へ放つ、という天候の仕上げである。",
+        "fakeMeaning": "絵の竜に晴れを点じて空へ放つ、というたとえ。",
         "confusable": "both",
         "confusableNote": "晴と睛は青を共有し偏が日と目で違い、この句ではどちらも「せい」と読める。",
         "variantNote": "大辞泉は点晴とは書かないと名指しする。見出しの「とも」ではないので外れ字にしてよい。"
       },
       {
         "char": "清",
-        "fakeMeaning": "絵の竜に清らかさを点じて完成させる、という水の仕上げである。",
+        "fakeMeaning": "絵の竜に清らかさを点じて完成させる、というたとえ。",
         "confusable": "both",
         "confusableNote": "清と睛は青を共有し偏が水と目で違い、この句ではどちらも「せい」と読める。",
         "variantNote": "画竜点清は見出しになっておらず、点晴の誤記とも別の字である。"
       },
       {
         "char": "精",
-        "fakeMeaning": "絵の竜に精を点じて命を入れる、という魂の仕上げである。",
+        "fakeMeaning": "絵の竜に精を点じて命を入れる、というたとえ。",
         "confusable": "both",
         "confusableNote": "精と睛は青を共有し偏が米と目で違い、この句ではどちらも「せい」と読める。",
         "variantNote": "画竜点精は見出しになっておらず、点晴の誤記とも別の字である。"
@@ -688,7 +688,7 @@
     "maxWrong": 2,
     "reading": "にかいからめぐすり",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "届かない場所から点すように、遠回しすぎて効きがおぼつかない、というたとえである。",
+    "meaning": "届かない場所から目薬を差すように、遠回しすぎてほとんど効かない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E4%BA%8C%E9%9A%8E%E3%81%8B%E3%82%89%E7%9B%AE%E8%96%AC-591073",
@@ -705,21 +705,21 @@
     "distractors": [
       {
         "char": "陛",
-        "fakeMeaning": "二陛から点すように、届かない位置から手当てする、という遠回しである。",
+        "fakeMeaning": "二陛から目薬を差すように、届かない位置から手当てする、というたとえ。",
         "confusable": "shape",
         "confusableNote": "陛と階はこざとへんを共有し、右側の作りが違う。",
         "variantNote": "二陛から目薬は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "海",
-        "fakeMeaning": "二つの海を越えて点すように、遠すぎて効きが無い、というたとえである。",
+        "fakeMeaning": "二つの海を越えて目薬を差すように、遠すぎて効きがない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "海と階は、この句ではどちらも「かい」と読める。",
         "variantNote": "二海から目薬は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "界",
-        "fakeMeaning": "二界から点すように、届かない境から手当てする、という遠回しである。",
+        "fakeMeaning": "二界から目薬を差すように、届かない境から手当てする、というたとえ。",
         "confusable": "sound",
         "confusableNote": "界と階は、この句ではどちらも「かい」と読める。",
         "variantNote": "二界から目薬は見出しになっておらず、大辞泉の「とも」でもない。"
@@ -740,7 +740,7 @@
     "maxWrong": 2,
     "reading": "かねはてんかのまわりもの",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "貨幣は一か所にとどまらず、世の中を巡るものだ、という言い方である。",
+    "meaning": "貨幣は一か所にとどまらず、世の中を巡る、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E9%87%91%E3%81%AF%E5%A4%A9%E4%B8%8B%E3%81%AE%E5%9B%9E%E3%82%8A%E7%89%A9",
@@ -757,21 +757,21 @@
     "distractors": [
       {
         "char": "鐘",
-        "fakeMeaning": "釣鐘は天下を回り、どこかの寺に長くは留まらない、という響きの循環である。",
+        "fakeMeaning": "釣鐘は天下を回り、どこかの寺に長くは留まらない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "鐘と金は、この句ではどちらも「かね」と読める。",
         "variantNote": "鐘は天下の回り物は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "銀",
-        "fakeMeaning": "銀貨は天下を回り、一か所には留まらない、という白い貨幣の循環である。",
+        "fakeMeaning": "銀貨は天下を回り、一か所には留まらない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "銀と金は金を部首に持ち、旁が違う。",
         "variantNote": "銀は天下の回り物は見出しになっておらず、同じ項目の「とも」でもない。"
       },
       {
         "char": "銭",
-        "fakeMeaning": "銭は天下を回り、手元に居着かない、という小銭の循環である。",
+        "fakeMeaning": "銭は天下を回り、手元に居着かない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "銭と金は金を部首に持ち、旁が違う。",
         "variantNote": "銭は天下の回り物は見出しになっておらず、同じ項目の「とも」でもない。"
@@ -792,7 +792,7 @@
     "maxWrong": 2,
     "reading": "さいおうがうま",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "辺境の翁の乗りものが逃げて戻るように、吉も凶も次の形は固定できない、という故事である。",
+    "meaning": "辺境の老人の家畜が逃げて戻るように、吉も凶もこの先どう転ぶかは分からない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E5%A1%9E%E7%BF%81%E3%81%8C%E9%A6%AC",
@@ -809,21 +809,21 @@
     "distractors": [
       {
         "char": "午",
-        "fakeMeaning": "砦の翁の午の方角が禍福を呼ぶ、という十二支の巡りである。",
+        "fakeMeaning": "砦の翁の午の方角が禍福を呼ぶ、というたとえ。",
         "confusable": "sound",
         "confusableNote": "午と馬は、十二支ではどちらも「うま」である。",
         "variantNote": "塞翁が午は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "駒",
-        "fakeMeaning": "砦の翁の駒が逃げて戻り、禍福が入れ替わる、という小さな四足の故事である。",
+        "fakeMeaning": "砦の翁の駒が逃げて戻り、禍福が入れ替わる、というたとえ。",
         "confusable": "shape",
         "confusableNote": "駒と馬は馬偏で、駒は追加の旁がある。",
         "variantNote": "塞翁が駒は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "駕",
-        "fakeMeaning": "砦の翁の駕が逃げて戻り、禍福が入れ替わる、という車の故事である。",
+        "fakeMeaning": "砦の翁の駕が逃げて戻り、禍福が入れ替わる、というたとえ。",
         "confusable": "shape",
         "confusableNote": "駕と馬は馬偏で、駕は追加の旁がある。",
         "variantNote": "塞翁が駕は見出しになっておらず、大辞泉の「とも」でもない。"
@@ -844,7 +844,7 @@
     "maxWrong": 2,
     "reading": "おんこちしん",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "過去の事実を尋ねて、新しい見解を開く、という学び方である。",
+    "meaning": "昔のことをたずねて、新しい知見を得る、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0",
@@ -861,21 +861,21 @@
     "distractors": [
       {
         "char": "古",
-        "fakeMeaning": "古い文物を温めて新しい知を開く、という古物の学びである。",
+        "fakeMeaning": "古い文物を温めて新しい知を得る、というたとえ。",
         "confusable": "both",
         "confusableNote": "古と故は古を共有し、この句ではどちらも「こ」と読める。",
         "variantNote": "大辞泉は温古知新と書くのは誤りだと名指しする。見出しの「とも」ではないので外れ字にしてよい。"
       },
       {
         "char": "己",
-        "fakeMeaning": "己を温めて新しい知を開く、という身の学びである。",
+        "fakeMeaning": "己を温めて新しい知を得る、という内省のたとえ。",
         "confusable": "sound",
         "confusableNote": "己と故は、この句ではどちらも「こ」と読める。",
         "variantNote": "温己知新は見出しになっておらず、温古の誤記とも別の字である。"
       },
       {
         "char": "枯",
-        "fakeMeaning": "枯れた記録を温めて新しい知を開く、という枯れ木の学びである。",
+        "fakeMeaning": "枯れた記録を温めて新しい知を得る、というたとえ。",
         "confusable": "shape",
         "confusableNote": "枯と故は古を部品に持ち、木偏の有無が違う。",
         "variantNote": "温枯知新は見出しになっておらず、温古の誤記とも別の字である。"
@@ -896,7 +896,7 @@
     "maxWrong": 2,
     "reading": "きをみてもりをみず",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "枝葉の一つに釘付けになると、林全体の姿が消える、というたとえである。",
+    "meaning": "枝葉の一つに釘付けになると、林全体が見えなくなる、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E6%9C%A8%E3%82%92%E8%A6%8B%E3%81%A6%E6%A3%AE%E3%82%92%E8%A6%8B%E3%81%9A",
@@ -913,21 +913,21 @@
     "distractors": [
       {
         "char": "本",
-        "fakeMeaning": "書物ばかり見て森を見ず、頁に囚われると全体を失う、という読みである。",
+        "fakeMeaning": "書物ばかり見て森を見ず、頁に囚われると全体を失う、というたとえ。",
         "confusable": "shape",
         "confusableNote": "本と木は、本が下に短い横画を足しただけの字形である。",
         "variantNote": "本を見て森を見ずは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "末",
-        "fakeMeaning": "梢ばかり見て森を見ず、先端に囚われると全体を失う、という読みである。",
+        "fakeMeaning": "梢ばかり見て森を見ず、先端に囚われると全体を失う、というたとえ。",
         "confusable": "shape",
         "confusableNote": "末と木は、末が上の横画を長くしただけの字形である。",
         "variantNote": "末を見て森を見ずは見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "機",
-        "fakeMeaning": "目の前の機ばかり見て、林の広がりを落とす、という読みである。",
+        "fakeMeaning": "目の前の機ばかり見て、林の広がりを見落とす、というたとえ。",
         "confusable": "both",
         "confusableNote": "機と木は木偏を共有し、この句ではどちらも「き」と読める。",
         "variantNote": "機を見て森を見ずは見出しになっておらず、大辞泉の「とも」でもない。"
@@ -948,7 +948,7 @@
     "maxWrong": 2,
     "reading": "ぎょふのり",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "双方の争いにつけ込んで、別の者が得をする、というたとえである。",
+    "meaning": "双方の争いにつけ込んで、別の者が得をする、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E6%BC%81%E5%A4%AB%E3%81%AE%E5%88%A9",
@@ -965,21 +965,21 @@
     "distractors": [
       {
         "char": "理",
-        "fakeMeaning": "漁夫の理では、争いの外で得をする、という分け前のきまりである。",
+        "fakeMeaning": "漁夫の理では、争いの外で得をする、というたとえ。",
         "confusable": "sound",
         "confusableNote": "理と利は、この句ではどちらも「り」と読める。",
         "variantNote": "漁夫の理は見出しになっておらず、漁父の別表記でもない。"
       },
       {
         "char": "痢",
-        "fakeMeaning": "漁夫の痢では、得たものが腹の災いになる、という報いである。",
+        "fakeMeaning": "漁夫の痢では、得たものが腹の災いになる、というたとえ。",
         "confusable": "both",
         "confusableNote": "痢と利は、痢がやまいだれに利で、この句ではどちらも「り」と読める。",
         "variantNote": "漁夫の痢は見出しになっておらず、漁父の別表記でもない。"
       },
       {
         "char": "吏",
-        "fakeMeaning": "漁夫の吏では、争いの外で得をする、という役の取り分である。",
+        "fakeMeaning": "漁夫の吏では、争いの外で得をする、というたとえ。",
         "confusable": "sound",
         "confusableNote": "吏と利は、この句ではどちらも「り」と読める。",
         "variantNote": "漁夫の吏は見出しになっておらず、漁父の別表記でもない。"
@@ -1000,7 +1000,7 @@
     "maxWrong": 2,
     "reading": "えんすいはきんかをすくわず",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "遠くにある助けでは、間近の急場に間に合わない、というたとえである。",
+    "meaning": "遠くにある助けでは、間近の急場に間に合わない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E9%81%A0%E6%B0%B4%E3%81%AF%E8%BF%91%E7%81%AB%E3%82%92%E6%95%91%E3%82%8F%E3%81%9A",
@@ -1017,21 +1017,21 @@
     "distractors": [
       {
         "char": "炎",
-        "fakeMeaning": "遠くにある水では、間近の炎には間に合わない、というたとえである。",
+        "fakeMeaning": "遠くにある水では、間近の炎には間に合わない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "炎と火は、炎が火を重ねた字形である。",
         "variantNote": "近炎を救わずは見出しになっておらず、大辞泉が並べるのは渇であって炎ではない。"
       },
       {
         "char": "灰",
-        "fakeMeaning": "遠くにある水では、間近の灰には間に合わない、というたとえである。",
+        "fakeMeaning": "遠くにある水では、間近の灰には間に合わない、というたとえ。",
         "confusable": "shape",
         "confusableNote": "灰と火は、灰が火を下に置いた字形である。",
         "variantNote": "近灰を救わずは見出しになっておらず、大辞泉が並べるのは渇であって灰ではない。"
       },
       {
         "char": "禍",
-        "fakeMeaning": "遠くにある水では、間近の禍には間に合わない、というたとえである。",
+        "fakeMeaning": "遠くにある水では、間近の禍には間に合わない、というたとえ。",
         "confusable": "sound",
         "confusableNote": "禍と火は、この句ではどちらも「か」と読める。",
         "variantNote": "近禍を救わずは見出しになっておらず、大辞泉が並べるのは渇であって禍ではない。"
@@ -1052,7 +1052,7 @@
     "maxWrong": 2,
     "reading": "いのなかのかわずたいかいをしらず",
     "hints": [{ "afterWrong": 1, "kind": "reading", "text": "" }],
-    "meaning": "狭いすみかに安住し、外の広い世界を知らない、というたとえである。",
+    "meaning": "狭いすみかに安住し、外の広い世界を知らない、という意味。",
     "sources": [
       {
         "url": "https://kotobank.jp/word/%E4%BA%95%E3%81%AE%E4%B8%AD%E3%81%AE%E8%9B%99%E5%A4%A7%E6%B5%B7%E3%82%92%E7%9F%A5%E3%82%89%E3%81%9A",
@@ -1069,21 +1069,21 @@
     "distractors": [
       {
         "char": "丼",
-        "fakeMeaning": "丼の中の蛙は大海を知らず、器の中を世界だと思う、という狭さである。",
+        "fakeMeaning": "丼の中の蛙は大海を知らず、器の中を世界だと思う、というたとえ。",
         "confusable": "shape",
         "confusableNote": "丼と井は、丼が枠の中に点を足した字形である。",
         "variantNote": "丼の中の蛙は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "升",
-        "fakeMeaning": "升の中の蛙は大海を知らず、計量の箱を世界だと思う、という狭さである。",
+        "fakeMeaning": "升の中の蛙は大海を知らず、升の内を世界だと思う、というたとえ。",
         "confusable": "shape",
         "confusableNote": "升と井は、どちらも枠の中に線を持つ短い字形である。",
         "variantNote": "升の中の蛙は見出しになっておらず、大辞泉の「とも」でもない。"
       },
       {
         "char": "胃",
-        "fakeMeaning": "胃の中の蛙は大海を知らず、腹の内を世界だと思う、という狭さである。",
+        "fakeMeaning": "胃の中の蛙は大海を知らず、腹の内を世界だと思う、というたとえ。",
         "confusable": "sound",
         "confusableNote": "胃と井は、この句ではどちらも「い」と読める。",
         "variantNote": "胃の中の蛙は見出しになっておらず、大辞泉の「とも」でもない。"

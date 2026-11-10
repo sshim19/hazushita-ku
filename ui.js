@@ -146,9 +146,9 @@ function onTap(character) {
 async function copyShare(text) {
   try {
     await navigator.clipboard.writeText(text);
-    copyStatus = '写しました';
+    copyStatus = 'コピーしました';
   } catch {
-    copyStatus = '写せませんでした。下の文を選択して写せます';
+    copyStatus = 'コピーできませんでした。下の文を選んでコピーできます';
   }
   render();
 }
@@ -208,7 +208,7 @@ function renderCandidates() {
         'button',
         {
           type: 'button',
-          'aria-label': `${character} 穴に入れる`,
+          'aria-label': `${character}を入れる`,
           disabled: state.done,
           onClick: () => onTap(character),
         },
@@ -243,12 +243,12 @@ function renderResult(puzzle) {
     correctPhrase: falsePhrase(puzzle.phrase, puzzle.answer),
   });
   box.append(
-    el('p', { class: 'share-label' }, '結果'),
+    el('p', { class: 'share-label' }, 'シェア'),
     el('pre', { class: 'share', tabindex: '0' }, share),
     el(
       'div',
       { class: 'copy-row' },
-      el('button', { type: 'button', onClick: () => copyShare(share) }, '写す'),
+      el('button', { type: 'button', onClick: () => copyShare(share) }, 'コピー'),
       copyStatus ? el('p', { class: 'copy-status' }, copyStatus) : null,
     ),
   );
@@ -281,7 +281,7 @@ function renderNav() {
 function render() {
   const puzzle = puzzles[activeIndex];
   if (!puzzle || !state) {
-    fail('問題データを読み込めませんでした。');
+    fail('問題を読み込めませんでした。');
     return;
   }
   document.title = meta.title;
@@ -290,7 +290,7 @@ function render() {
     header.append(el('p', { class: 'daily-label' }, '今日の1問'));
     if (record !== null) {
       const streak = currentStreak(dateKey, record.clearedDates);
-      header.append(el('p', { class: 'streak' }, `連続 ${streak}`));
+      header.append(el('p', { class: 'streak' }, `連続 ${streak}日`));
     }
   }
   const which =
@@ -318,7 +318,7 @@ async function main() {
       DATA_PATHS.map((path) => loadJson(path)),
     );
     if (!Array.isArray(loadedPuzzles) || loadedPuzzles.length === 0) {
-      fail('問題データを読み込めませんでした。');
+      fail('問題を読み込めませんでした。');
       return;
     }
     puzzles = loadedPuzzles;
@@ -335,7 +335,7 @@ async function main() {
     const index = meta.daily ? puzzleIndex(dateKey, puzzles.length) : 0;
     startPuzzle(index, meta.daily);
   } catch {
-    fail('問題データを読み込めませんでした。');
+    fail('問題を読み込めませんでした。');
   }
 }
 
